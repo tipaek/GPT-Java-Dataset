@@ -28,11 +28,10 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#composition">File Composiiton</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#dataset-structure">File Composiiton</a></li>
+        <li><a href="#citation">Citation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -62,7 +61,7 @@ Of course, there are limitations to this dataset as code classification by an LL
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Composition
+### Dataset Structure
 
 Here's a breakdown of the files in this dataset:
 * 976 total files
@@ -70,20 +69,27 @@ Here's a breakdown of the files in this dataset:
 * 108 rewritten files using Bing GPT-4 (61 formatted, 47 non-formatted)
 * 202 rewritten files using ChatGPT-3.5 (59 formatted, 143 non-formatted)
 
-### Installation
-
-To download this dataset, simply download it as a zip file and extract it from this GitHub page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Citation  
+If you use this dataset, please cite:  
+
+```bibtex
+@misc{P24_Java,
+  author = {Paek, Timothy},
+  title = {GPT Java Dataset: A Dataset for LLM-Generated Code Detection},
+  year = {2024},
+  howpublished = {GitHub Repository},
+  url = {https://github.com/tipaek/GPT-Java-Dataset}
+}
+```
 
 
 <!-- CONTACT -->
 ## Contact
 
 Timothy Paek - [Linked-In](https://www.linkedin.com/in/timothy-paek/) - tipaek@syr.edu
-
-Project Link: [https://github.com/tipaek/GPTJavaDataset](https://github.com/tipaek/GPTJavaDataset)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
